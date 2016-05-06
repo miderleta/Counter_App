@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1458829405 source:c:\dev\pass_fail_counter\pass_fail_couner\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1461766777 source:c:\dev\pass_fail_counter\pass_fail_couner\v0.2.c
+	<stdio.h>
+
+1462369324 source:c:\dev\pass_fail_counter\pass_fail_couner\v0.3.c
+	<stdio.h>
+
+1462439522 source:c:\dev\pass_fail_counter\pass_fail_couner\v0.4.c
+	<stdio.h>
+
